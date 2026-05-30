@@ -55,7 +55,10 @@ Building at the intersection of web performance and systems-level safety.
   <a href="https://discord.com/users/604227193651986443">
     <img alt="my discord activity" src="https://lanyard.cnrad.dev/api/604227193651986443?bg=0d1117&showDisplayName=true&include_all_commits=true" />
   </a>
+  <br/><br/><br/>
+  <img src="https://wakatime.com/badge/user/972915bd-c915-4cf1-a2bd-2ba16ee5ef0a.svg" alt="WakaTime Stats" />
 </div>
+
 
 ---
 
